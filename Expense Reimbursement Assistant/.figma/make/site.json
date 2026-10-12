@@ -1,0 +1,10 @@
+{
+  "description": "Automates expense tracking by extracting data from receipts and documents to create accurate, submission-ready reimbursement claims quickly and easily.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

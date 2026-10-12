@@ -1,0 +1,29 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+apps/api/.env
+*.pem
+*.key
+*.zip
+
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Runtime data (SQLite DB, uploaded receipts, admin overrides)
+apps/api/data/
+apps/api/data-live/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+
+# Local tooling / scratch
+.tools/
+resp*.json
+r.json
+m.json
