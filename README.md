@@ -14,7 +14,7 @@ An AI agent that turns piles of receipts into submission-ready reimbursement cla
 
 - **Technical design, architecture diagrams, setup, assumptions**: [docs/TECHNICAL_DESIGN.md](docs/TECHNICAL_DESIGN.md)
 - **Original design rationale**: [docs/DESIGN.md](docs/DESIGN.md)
-- **Demo video**: _YouTube link to be added_
+- **Demo video**: https://youtu.be/NAwRPTj_b50
 
 ## Run
 
